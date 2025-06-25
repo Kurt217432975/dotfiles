@@ -1,0 +1,11 @@
+# Development tools that need system integration
+git
+nodejs
+python
+docker-desktop
+visualstudio2022community
+
+# System utilities
+hwinfo
+msiafterburner
+crystaldiskinfo

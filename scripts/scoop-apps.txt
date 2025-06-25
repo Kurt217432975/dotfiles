@@ -1,0 +1,14 @@
+# Portable development tools
+vscode
+neovim
+ripgrep
+fd
+bat
+fzf
+jq
+
+# Portable utilities
+everything
+ditto
+windirstat
+ccleaner

@@ -1,0 +1,17 @@
+# Gaming
+Steam.Steam
+EpicGames.EpicGamesLauncher
+Discord.Discord
+
+# Browsers
+Mozilla.Firefox
+Google.Chrome
+
+# Media
+VideoLAN.VLC
+Spotify.Spotify
+
+# Utilities
+7zip.7zip
+Microsoft.PowerToys
+ShareX.ShareX
